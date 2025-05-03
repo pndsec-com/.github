@@ -1,12 +1,5 @@
 ## Hi there 👋 We are PNDSEC!
 
-<!--
+🍿 PNDSEC is a passionate cybersecurity group dedicated to enhancing digital security through ethical hacking and advanced threat intelligence. Our expertise spans penetration testing, bug hunting, threat analysis, and cybersecurity education. We aim to protect systems by uncovering vulnerabilities before malicious actors can exploit them. Through continuous learning and knowledge sharing, we empower individuals and organizations to stay secure in an ever-evolving digital landscape.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[https://pndse.com](https://pndsec.com)
